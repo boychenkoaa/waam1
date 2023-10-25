@@ -1,0 +1,12 @@
+PyQt6~=6.4.0
+shapely~=2.0.1
+euclid
+matplotlib~=3.4.3
+PyGLM
+PyOpenGL
+sortedcontainers~=2.4.0
+geopandas~=0.12.2
+
+euclid3~=0.1
+numpy~=1.21.1
+trimesh~=3.12.8
